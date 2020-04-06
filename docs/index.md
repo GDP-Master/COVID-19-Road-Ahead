@@ -13,6 +13,8 @@ I want to use the time while we're unable to meet in person to develop skills th
 
 These turn out to be skills that are highly valued by employers and ones that you are likely to use professionally if you pursue a career in game design or a related field.
 
+[es]: <https://teaching-master.github.io/COVID-19/essential-standards>
+
 ## Demonstrating Your Learning
 
 ## Asynchronous Collaboration
