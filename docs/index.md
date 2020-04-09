@@ -17,6 +17,12 @@ These turn out to be skills that are highly valued by employers and ones that yo
 
 ## Demonstrating Your Learning
 
+There are _many_ options for what you could be doing to develop your game design and programming skills. Here are some suggestions:
+* Keep working in JavaScript on Code.Org. Complete Unit 3 and build a game of your own design.
+* Learn about Unity - install Unity and work through an online class. We were going to do [Create with Code](https://learn.unity.com), but there are many options.
+* Explore simulations.
+* Learn to do "paper prototyping" 
+
 ## Asynchronous Collaboration
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
