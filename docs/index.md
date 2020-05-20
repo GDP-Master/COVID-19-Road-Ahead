@@ -25,4 +25,11 @@ There are _many_ options for what you could be doing to develop your game design
 
 ## Asynchronous Collaboration
 
+You may find it helpful to get notifications from Canvas. To do this you will need to add a working e-mail adderess (the SKSD Google accounts we use for authentication don't have valid e-mail associated with them) or number for SMS (text) messages. To do this:
+1. Sign in to Canvas.
+1. Click on the [**Account**](https://canvas.instructure.com/profile) button on the left-hand sidebar.
+1. Select [**Settings**](https://canvas.instructure.com/profile/settings).
+1. Under **Ways to Contact**, you'll find **Email Addresses** and **Other Contacts**. Below those either the **+ Email Address** or the **+ Contact Method** links will take you to a dialog that will let you add an e-mail adderess and/or a cell number for notifications.
+1. If you find that you'd like to adjust the type or frequency of notifications that you get you can do that under the [**Notifications**](https://canvas.instructure.com/profile/communication) item in your account.
+
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
